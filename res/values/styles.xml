@@ -81,7 +81,6 @@
         <item name="section_header_background">@drawable/list_title_holo</item>
         <item name="list_section_header_height">24dip</item>
         <item name="list_item_padding_top">@dimen/contact_browser_list_item_padding_top_or_bottom</item>
-        </item>
         <item name="list_item_padding_right">32dp</item>
         <item name="list_item_padding_bottom">@dimen/contact_browser_list_item_padding_top_or_bottom</item>
 	<!-- added for contacts list text for theming "Thyrus" -->
